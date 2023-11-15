@@ -692,6 +692,13 @@ form .btn2:hover{
 ```
 
 ## OUTPUT:
+![Screenshot (425)](https://github.com/selvasachein/softweb/assets/103128410/a09287ef-f301-4812-921e-a4c78afe90bd)
+![Screenshot (426)](https://github.com/selvasachein/softweb/assets/103128410/9e25275b-9ed7-4343-bcc5-ef92207f61eb)
+![Screenshot (427)](https://github.com/selvasachein/softweb/assets/103128410/8ee06d9a-2fc0-44aa-b30a-06247e2670a7)
+![Screenshot (428)](https://github.com/selvasachein/softweb/assets/103128410/01d49f64-05ae-4939-a6c7-39d5f1fff881)
+![Screenshot (429)](https://github.com/selvasachein/softweb/assets/103128410/1d3fe585-06fb-4d98-bca2-73cef885dc1e)
+![Screenshot (430)](https://github.com/selvasachein/softweb/assets/103128410/0e9abd76-c028-49ff-930b-f1a12306ed95)
+
 
 
 ## RESULT:
